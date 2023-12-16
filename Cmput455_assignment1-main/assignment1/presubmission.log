@@ -1,0 +1,51 @@
+Script started on 2023-09-17 20:08:06-06:00 [TERM="xterm" TTY="/dev/pts/2" COLUMNS="250" LINES="27"]
+shiyao4@ug25:~/cmput455/assignment1/Cmput455_assignment1-main>tar zxvf assignment1.tgz[K[K[K[K_submit.tgz 
+assignment1/
+assignment1/assignment1-public-tests.gtp
+assignment1/engine.py
+assignment1/board_util.py
+assignment1/assignment1-public-tests.gtp.out.html
+assignment1/board.py
+assignment1/.DS_Store
+assignment1/test.gtp
+assignment1/gtp_connection.py
+assignment1/board_base.py
+assignment1/Go0.py
+shiyao4@ug25:~/cmput455/assignment1/Cmput455_assignment1-main>cd assignment1/
+shiyao4@ug25:~/cmput455/assignment1/Cmput455_assignment1-main/assignment1>~[Kls -al
+total 38
+drwx------ 2 shiyao4 shiyao4    12 Sep 17 20:03 .
+drwx------ 3 shiyao4 shiyao4     8 Sep 17 20:08 ..
+-rw------- 1 shiyao4 shiyao4  6148 Sep 17 19:46 .DS_Store
+-rwx------ 1 shiyao4 shiyao4  1052 Sep 17 20:06 Go0.py
+-rw------- 1 shiyao4 shiyao4  1372 Sep 17 19:46 assignment1-public-tests.gtp
+-rw------- 1 shiyao4 shiyao4  1093 Sep 17 20:03 assignment1-public-tests.gtp.out.html
+-rw------- 1 shiyao4 shiyao4 18294 Sep 17 19:46 board.py
+-rw------- 1 shiyao4 shiyao4  2780 Sep 17 19:46 board_base.py
+-rw------- 1 shiyao4 shiyao4  3023 Sep 17 19:46 board_util.py
+-rw------- 1 shiyao4 shiyao4   644 Sep 17 19:46 engine.py
+-rw------- 1 shiyao4 shiyao4 29548 Sep 17 19:46 gtp_connection.py
+-rw------- 1 shiyao4 shiyao4   575 Sep 17 19:46 test.gtp
+shiyao4@ug25:~/cmput455/assignment1/Cmput455_assignment1-main/assignment1>~?[K/cmput455/gogui/bin/gogui-regress Go0.py assignment1-public-tests.gtp
+shiyao4@ug25:~/cmput455/assignment1/Cmput455_assignment1-main/assignment1>ls -al
+total 47
+drwx------ 3 shiyao4 shiyao4    16 Sep 17 20:09 .
+drwx------ 3 shiyao4 shiyao4     8 Sep 17 20:08 ..
+-rw------- 1 shiyao4 shiyao4  6148 Sep 17 19:46 .DS_Store
+-rwx------ 1 shiyao4 shiyao4  1052 Sep 17 20:06 Go0.py
+drwx------ 2 shiyao4 shiyao4     7 Sep 17 20:09 __pycache__
+-rw------- 1 shiyao4 shiyao4  1372 Sep 17 19:46 assignment1-public-tests.gtp
+-rw------- 1 shiyao4 shiyao4  4675 Sep 17 20:09 assignment1-public-tests.gtp.html
+-rw------- 1 shiyao4 shiyao4  6751 Sep 17 20:09 assignment1-public-tests.gtp.out.html
+-rw------- 1 shiyao4 shiyao4 18294 Sep 17 19:46 board.py
+-rw------- 1 shiyao4 shiyao4  2780 Sep 17 19:46 board_base.py
+-rw------- 1 shiyao4 shiyao4  3023 Sep 17 19:46 board_util.py
+-rw------- 1 shiyao4 shiyao4   644 Sep 17 19:46 engine.py
+-rw------- 1 shiyao4 shiyao4 29548 Sep 17 19:46 gtp_connection.py
+-rw------- 1 shiyao4 shiyao4  2083 Sep 17 20:09 index.html
+-rw------- 1 shiyao4 shiyao4    67 Sep 17 20:09 summary.dat
+-rw------- 1 shiyao4 shiyao4   575 Sep 17 19:46 test.gtp
+shiyao4@ug25:~/cmput455/assignment1/Cmput455_assignment1-main/assignment1>exit
+exit
+
+Script done on 2023-09-17 20:10:01-06:00 [COMMAND_EXIT_CODE="0"]
